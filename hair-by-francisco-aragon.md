@@ -3,7 +3,7 @@ title: "Hair, by Francisco Aragón"
 draft: false
 date: "2021-11-26T00:00:00+00:00"
 ---
-*for M  *
+_for M_  
   
 1.  
   
@@ -38,5 +38,5 @@ his chest
 a cub  
 wanders  
 the forest  
-*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;after Andrés Montoya & Francisco X. Alarcón  *
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_after Andrés Montoya & Francisco X. Alarcón_  
   
