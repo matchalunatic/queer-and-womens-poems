@@ -8,3 +8,4 @@ None of these were written by us unless otherwise stated.
 
 Love.
 
+These are meant to be embedded in a Hugo website.
